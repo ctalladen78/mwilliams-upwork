@@ -10,3 +10,9 @@ to click on a link, login with a google account, and copy-paste a token
 
 to run:
 $ go run *.go
+
+ctalladen78
+
+calendar id: Y3RhbGxhZGVuNzhAZ21haWwuY29t
+
+test sheet id: 1A0IZHmHwjPf5YxLQAEQDuqsZj3rKW2VgDHZq9rmBalo

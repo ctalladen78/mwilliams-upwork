@@ -1,11 +1,10 @@
 package main
 
-// "google.golang.org/api/calendar/v3"
-
 func test() {
 
+	// CALENDAR_ID := "ctalladen78@gmail.com"
 	/*
-		CALENDAR_ID = "ctalladen78@gmail.com"
+		client := getCreds()
 
 		srv, err := calendar.New(client)
 		if err != nil {
@@ -31,5 +30,4 @@ func test() {
 			}
 		}
 	*/
-
 }
